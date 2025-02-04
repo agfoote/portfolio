@@ -1,17 +1,24 @@
 # Data Scientist
 
 ## Education
-2017-2022	University of Wisconsin-Madison (GPA: 3.82)
-	Ph.D. Communication Sciences and Disorders, Minor: Biomedical Engineering
-	Dissertation: _Role of mechanoreceptor Piezo1 in vocal fold epithelial development and regeneration; Advisor, Susan Thibeault, Ph.D_.
-
-2012-2015	State University of New York at Buffalo (GPA: 3.93)
-	M.A. Speech-Language Pathology
-	Thesis: _Contemporary Commercial Music (CCM) singers: Examining lifestyle health profiles, self-perceptions of voice, and acoustical correlates; Advisor, Elaine T. Stathopolous, Ph.D._
-
-2004-2008	West Virginia University (GPA: 3.60)
-	B.A. Business Management & Administration, Minor: Entrepreneurship
+- Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
+- M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
+- B.A., Business Management & Administration | West Virginia University (_2004-2008_)
 
 ### Work Experience
+**NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
+- Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
+
+**LLM Designer | Biology Division @ OpenAI (_2024-present--contract_)**
+- Using my domain expertise to create high-quality human-derived training datasets of tasks that will be used to evaluate OpenAI LLMs
+
+**NIH F31 Predoctoral Research Fellow @ UW-Madison (_2017-2022_)**
+- Investigated the role of Piezo1/Piezo2 mechanoreceptors in airway epithelial regeneration and repair
+
+**Research Associate @ UW-Madison (_2015-2017_)**
+- Employed bulk RNA-seq for transcriptomic profiling of human fibroblasts
+
+**Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
+- Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
 #### Projects
