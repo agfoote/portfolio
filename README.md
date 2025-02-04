@@ -1,4 +1,4 @@
-# Data Scientist
+# Clinicial Scientist - Biomedical Researcher 
 
 ## Education
 Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
