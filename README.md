@@ -48,3 +48,5 @@ Mechanoreceptors are implicated as functional afferents within mucosa of the air
 Improved understanding of iSLN innervation and corresponding mechanotransduction events will help shed light upon a variety of pathological reflex responses, including persistent cough, dysphonia, and laryngospasm.
 ![iSLN innervation](assets/img/iSLN.jpg)
 
+#### Full Publication Record
+[My Bibliography](https://scholar.google.com/citations?user=HBHi-44AAAAJ&hl=en)
