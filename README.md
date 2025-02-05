@@ -31,6 +31,9 @@ Mucosal surfaces lined by epithelial cells are essential elements of the respira
 ### Tissue specific human fibroblast differential expression based on RNAsequencing analysis
 [Publication](https://link.springer.com/article/10.1186/s12864-019-5682-5)
 
+Physical forces, such as mechanical stress, are essential for tissue homeostasis and influence gene expression of cells. In particular, the fibroblast has demonstrated sensitivity to extracellular matrices with assumed adaptation upon various mechanical loads. The purpose of this study was to compare the vocal fold fibroblast genotype, known for its unique mechanically stressful tissue environment, with cellular counterparts at various other anatomic locales to identify differences in functional gene expression profiles. By using RNA-seq technology, we identified differentially expressed gene programs (DEseq2) among seven normal human fibroblast primary cell lines from healthy cadavers, which included: vocal fold, trachea, lung, abdomen, scalp, upper gingiva, and soft palate.
+![Upper Airway Epithelial Cell Populations](assets/img/umap_atlas.jpg)
+
 ### Sensory innervation of the larynx and the search for mucosal mechanoreceptors
 [Publication](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
 
