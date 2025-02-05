@@ -1,9 +1,9 @@
 # Clinician-Scientist
 
 ## Education
-- Ph.D., CSD & Biomedical Engineering         | University of Wisconsin-Madison (_2017-2022_)	
-- M.A.,  Speech-Language Pathology            | State University of New York at Buffalo (_2012-2015_)
-- B.A.,  Business Management & Administration | West Virginia University (_2004-2008_)
+- Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
+- M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
+- B.A., Business Management & Administration | West Virginia University (_2004-2008_)
 
 ## Work Experience
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
@@ -51,7 +51,8 @@ Mechanoreceptors are implicated as functional afferents within mucosa of the air
 
 ### Sensory innervation of the larynx and the search for mucosal mechanoreceptors
 [Publication](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
+
 Improved understanding of iSLN innervation and corresponding mechanotransduction events will help shed light upon a variety of pathological reflex responses, including persistent cough, dysphonia, and laryngospasm.
 ![iSLN innervation](assets/img/iSLN.jpg)
 
-#### [**Full Publication Record**](https://scholar.google.com/citations?user=HBHi-44AAAAJ&hl=en)
+[Full Publication Record](https://scholar.google.com/citations?user=HBHi-44AAAAJ&hl=en)
