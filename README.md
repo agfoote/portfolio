@@ -21,5 +21,13 @@
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
-#### Projects
-[Publication](https://link.springer.com/article/10.1186/s12864-019-5682-5)
+### Key Projects
+[A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
+
+[Tissue specific human fibroblast differential expression based on RNAsequencing analysis](https://link.springer.com/article/10.1186/s12864-019-5682-5)
+
+[Sensory innervation of the larynx and the search for mucosal mechanoreceptors](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
+
+[Piezo1-expressing vocal fold epithelia modulate remodeling via effects on self-renewal and cytokeratin differentiation](https://link.springer.com/article/10.1007/s00018-022-04622-6)
+
+[Localization of TRPV3/4 and PIEZO1/2 sensory receptors in murine and human larynges](https://onlinelibrary.wiley.com/doi/full/10.1002/lio2.968)
