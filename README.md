@@ -25,13 +25,17 @@
 ### A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies
 [Publication](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
 
-Mucosal surfaces lined by epithelial cells are essential elements of the respiratory tract, effective not only as a first-line physical barrier against chronic external threats, but also for host immune defense, and injury repair. Here, using single cell RNAseq combined with spatial validation, we present a comprehensive atlas of the mouse upper respiratory epithelium. This work serves as a valuable atlas for hypothesis-driven work into responses to environmental insults, genetic mutations, and infectious diseases.
+Mucosal surfaces lined by epithelial cells are essential elements of the respiratory tract, effective not only as a first-line physical barrier against chronic external threats, but also for host immune defense, and injury repair. Here, using **single cell RNAseq** combined with spatial validation, we present a comprehensive atlas of the mouse upper respiratory epithelium. This work serves as a valuable atlas for hypothesis-driven work into responses to environmental insults, genetic mutations, and infectious diseases.
 ![Upper Airway Epithelial Cell Populations](assets/img/umap_atlas.jpg)
 
-[Tissue specific human fibroblast differential expression based on RNAsequencing analysis](https://link.springer.com/article/10.1186/s12864-019-5682-5)
+### Tissue specific human fibroblast differential expression based on RNAsequencing analysis
+[Publication](https://link.springer.com/article/10.1186/s12864-019-5682-5)
 
-[Sensory innervation of the larynx and the search for mucosal mechanoreceptors](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
+### Sensory innervation of the larynx and the search for mucosal mechanoreceptors
+[Publication](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
 
-[Piezo1-expressing vocal fold epithelia modulate remodeling via effects on self-renewal and cytokeratin differentiation](https://link.springer.com/article/10.1007/s00018-022-04622-6)
+### _Piezo1_-expressing vocal fold epithelia modulate remodeling via effects on self-renewal and cytokeratin differentiation
+[Publication](https://link.springer.com/article/10.1007/s00018-022-04622-6)
 
-[Localization of TRPV3/4 and PIEZO1/2 sensory receptors in murine and human larynges](https://onlinelibrary.wiley.com/doi/full/10.1002/lio2.968)
+### Localization of TRPV3/4 and PIEZO1/2 sensory receptors in murine and human larynges
+[Publication](https://onlinelibrary.wiley.com/doi/full/10.1002/lio2.968)
