@@ -22,3 +22,4 @@
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
 #### Projects
+[Publication](https://link.springer.com/article/10.1186/s12864-019-5682-5)
