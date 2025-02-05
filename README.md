@@ -23,7 +23,7 @@
 
 ### Key Projects
 [A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
-![Upper Airway Epithelial Cell Populations](portfolio/assets/img/umap_atlas.jpg)
+![Upper Airway Epithelial Cell Populations](assets/img/umap_atlas.jpg)
 
 [Tissue specific human fibroblast differential expression based on RNAsequencing analysis](https://link.springer.com/article/10.1186/s12864-019-5682-5)
 
