@@ -1,7 +1,7 @@
 # Clinician-Scientist
 
 ## Education
-- Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
+Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
 - M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
 - B.A., Business Management & Administration | West Virginia University (_2004-2008_)
 
