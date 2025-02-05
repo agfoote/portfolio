@@ -5,7 +5,7 @@
 - M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
 - B.A., Business Management & Administration | West Virginia University (_2004-2008_)
 
-### Work Experience
+## Work Experience
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
 - Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
 
@@ -21,8 +21,11 @@
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
-### Key Projects
-[A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
+## Key Projects
+### A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies
+[Publication](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
+
+Mucosal surfaces lined by epithelial cells are essential elements of the respiratory tract, effective not only as a first-line physical barrier against chronic external threats, but also for host immune defense, and injury repair. Here, using single cell RNAseq combined with spatial validation, we present a comprehensive atlas of the mouse upper respiratory epithelium. This work serves as a valuable atlas for hypothesis-driven work into responses to environmental insults, genetic mutations, and infectious diseases.
 ![Upper Airway Epithelial Cell Populations](assets/img/umap_atlas.jpg)
 
 [Tissue specific human fibroblast differential expression based on RNAsequencing analysis](https://link.springer.com/article/10.1186/s12864-019-5682-5)
