@@ -24,7 +24,13 @@
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
-## Key Projects
+## Current Projects & Workshops
+### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
+[Funding Award](https://reporter.nih.gov/search/NzhijxcIoE-2-uPq0CEwkQ/project-details/10922743)
+
+My current research is guided by the hypothesis that viral infection of the larynx activates neurosensory cells, remodels both afferent and efferent nerves, and contributes to mucosal inflammation and hypersensitivity. To test this hypothesis, I employ an established mouse model of influenza A virus (IAV) infection to interrogate laryngeal mucosal remodeling and map afferent/efferent neural circuits/cells in naïve and virus-infected tissues.
+
+## Past Projects
 ### A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies
 [Publication](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
 
