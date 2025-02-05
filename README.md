@@ -36,6 +36,7 @@ Physical forces, such as mechanical stress, are essential for tissue homeostasis
 
 ### _Piezo1_-expressing vocal fold epithelia modulate remodeling via effects on self-renewal and cytokeratin differentiation
 [Publication](https://link.springer.com/article/10.1007/s00018-022-04622-6)
+
 Mechanoreceptors are implicated as functional afferents within mucosa of the airways and the recent discovery of mechanosensitive channels _Piezo1_ and _Piezo2_ has proved essential for cells of various mechanically sensitive tissues. However, the role for _Piezo1/2 _ in vocal fold (VF) mucosal epithelia, a cell that withstands excessive biomechanical insult, remains unknown. The purpose of this study was to test the hypothesis that _Piezo1_ is required for VF mucosal repair pathways of epithelial cell injury. Utilizing cell-based assays within genetically-engineered murine tissue, we demonstrated a role for _Piezo1_-expressing VF epithelia in regulating self-renewal via effects on _p63_ transcription and YAP subcellular translocation—altering cytokeratin differentiation.
 ![Piezo1-expressing VF epithelia regulate self-renewal](assets/img/Piezo1.jpg)
 
