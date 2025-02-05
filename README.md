@@ -18,6 +18,9 @@
 **Research Associate @ UW-Madison (_2015-2017_)**
 - Employed bulk RNA-seq for transcriptomic profiling of human fibroblasts
 
+**Medical Speech-Language Pathologist @ UW Hospital & Clinics (_2015-2017_)**
+- Specialized in the assessment and treatment of patients with organic, neurological,and functional voice/swallow disorders, and upper airway dysfunction
+
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
@@ -44,7 +47,4 @@ Mechanoreceptors are implicated as functional afferents within mucosa of the air
 [Publication](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
 Improved understanding of iSLN innervation and corresponding mechanotransduction events will help shed light upon a variety of pathological reflex responses, including persistent cough, dysphonia, and laryngospasm.
 ![iSLN innervation](assets/img/iSLN.jpg)
-
-### Localization of TRPV3/4 and PIEZO1/2 sensory receptors in murine and human larynges
-[Publication](https://onlinelibrary.wiley.com/doi/full/10.1002/lio2.968)
 
