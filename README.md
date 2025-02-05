@@ -9,7 +9,7 @@
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
 - Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
 
-**LLM Designer | Biology Division @ OpenAI (_2024-present--contract_)**
+**LLM Designer | Biology Division @ OpenAI (_2024--contract_)**
 - Using my domain expertise to create high-quality human-derived training datasets of tasks that will be used to evaluate OpenAI LLMs
 
 **NIH F31 Predoctoral Research Fellow @ UW-Madison (_2017-2022_)**
@@ -54,4 +54,4 @@ Mechanoreceptors are implicated as functional afferents within mucosa of the air
 Improved understanding of iSLN innervation and corresponding mechanotransduction events will help shed light upon a variety of pathological reflex responses, including persistent cough, dysphonia, and laryngospasm.
 ![iSLN innervation](assets/img/iSLN.jpg)
 
-#### Full Publication Record [My Bibliography](https://scholar.google.com/citations?user=HBHi-44AAAAJ&hl=en)
+#### [**Full Publication Record**](https://scholar.google.com/citations?user=HBHi-44AAAAJ&hl=en)
