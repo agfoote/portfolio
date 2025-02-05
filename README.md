@@ -42,6 +42,9 @@ Mechanoreceptors are implicated as functional afferents within mucosa of the air
 
 ### Sensory innervation of the larynx and the search for mucosal mechanoreceptors
 [Publication](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
+Improved understanding of iSLN innervation and corresponding mechanotransduction events will help shed light upon a variety of pathological reflex responses, including persistent cough, dysphonia, and laryngospasm.
+![Piezo1-expressing VF epithelia regulate self-renewal](assets/img/Piezo1.jpg)
 
 ### Localization of TRPV3/4 and PIEZO1/2 sensory receptors in murine and human larynges
 [Publication](https://onlinelibrary.wiley.com/doi/full/10.1002/lio2.968)
+
