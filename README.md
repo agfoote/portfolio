@@ -31,14 +31,16 @@ Mucosal surfaces lined by epithelial cells are essential elements of the respira
 ### Tissue specific human fibroblast differential expression based on RNAsequencing analysis
 [Publication](https://link.springer.com/article/10.1186/s12864-019-5682-5)
 
-Physical forces, such as mechanical stress, are essential for tissue homeostasis and influence gene expression of cells. In particular, the fibroblast has demonstrated sensitivity to extracellular matrices with assumed adaptation upon various mechanical loads. The purpose of this study was to compare the vocal fold fibroblast genotype, known for its unique mechanically stressful tissue environment, with cellular counterparts at various other anatomic locales to identify differences in functional gene expression profiles. By using RNA-seq technology, we identified differentially expressed gene programs (DEseq2) among seven normal human fibroblast primary cell lines from healthy cadavers, which included: vocal fold, trachea, lung, abdomen, scalp, upper gingiva, and soft palate.
+Physical forces, such as mechanical stress, are essential for tissue homeostasis and influence gene expression of cells. In particular, the fibroblast has demonstrated sensitivity to extracellular matrices with assumed adaptation upon various mechanical loads. The purpose of this study was to compare the vocal fold fibroblast genotype, known for its unique mechanically stressful tissue environment, with cellular counterparts at various other anatomic locales to identify differences in functional gene expression profiles. By using **bulk RNA-seq ** technology, we identified differentially expressed gene programs (DEseq2) among seven normal human fibroblast primary cell lines from healthy cadavers, which included: vocal fold, trachea, lung, abdomen, scalp, upper gingiva, and soft palate.
+![Human Fibroblast Gene Profile](assets/img/RNAseq.jpg)
+
+### _Piezo1_-expressing vocal fold epithelia modulate remodeling via effects on self-renewal and cytokeratin differentiation
+[Publication](https://link.springer.com/article/10.1007/s00018-022-04622-6)
+Mechanoreceptors are implicated as functional afferents within mucosa of the airways and the recent discovery of mechanosensitive channels Piezo1 and Piezo2 has proved essential for cells of various mechanically sensitive tissues. However, the role for _Piezo1/2 _ in vocal fold (VF) mucosal epithelia, a cell that withstands excessive biomechanical insult, remains unknown. The purpose of this study was to test the hypothesis that Piezo1 is required for VF mucosal repair pathways of epithelial cell injury. Our results demonstrated a role for _Piezo1_-expressing VF epithelia in regulating self-renewal via effects on p63 transcription and YAP subcellular translocation—altering cytokeratin differentiation.
 ![Human Fibroblast Gene Profile](assets/img/RNAseq.jpg)
 
 ### Sensory innervation of the larynx and the search for mucosal mechanoreceptors
 [Publication](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-20-00350)
-
-### _Piezo1_-expressing vocal fold epithelia modulate remodeling via effects on self-renewal and cytokeratin differentiation
-[Publication](https://link.springer.com/article/10.1007/s00018-022-04622-6)
 
 ### Localization of TRPV3/4 and PIEZO1/2 sensory receptors in murine and human larynges
 [Publication](https://onlinelibrary.wiley.com/doi/full/10.1002/lio2.968)
