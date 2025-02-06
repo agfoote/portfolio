@@ -10,7 +10,7 @@
 - Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
 
 **LLM Designer | Biology Division @ OpenAI (_2024--contract_)**
-- Using my domain expertise to create high-quality human-derived training datasets of tasks that will be used to evaluate OpenAI LLMs
+- Utilized my domain expertise to create high-quality human-derived training datasets (Project: Lion, Elephant) of tasks that were used to evaluate OpenAI LLMs
 
 **NIH F31 Predoctoral Research Fellow @ UW-Madison (_2017-2022_)**
 - Investigated the role of Piezo1/Piezo2 mechanoreceptors in airway epithelial regeneration and repair
@@ -24,13 +24,12 @@
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
-## Current Projects & Workshops
+## Projects
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
 [Funding Award](https://reporter.nih.gov/search/NzhijxcIoE-2-uPq0CEwkQ/project-details/10922743)
 
 My current research is guided by the hypothesis that viral infection of the larynx activates neurosensory cells, remodels both afferent and efferent nerves, and contributes to mucosal inflammation and hypersensitivity. To test this hypothesis, I employ an established mouse model of influenza A virus (IAV) infection to interrogate laryngeal mucosal remodeling and map afferent/efferent neural circuits/cells in naïve and virus-infected tissues.
 
-## Past Projects
 ### A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies
 [Publication](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
 
