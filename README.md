@@ -4,7 +4,7 @@
 - Ph.D. CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
 - M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
 - B.A., Business Management & Administration | West Virginia University (_2004-2008_)
-- 
+  
 ## Work Experience
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
 - Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
