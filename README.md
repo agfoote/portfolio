@@ -1,12 +1,30 @@
 # Clinician-Scientist
 
 ## Education
-|:------|:------------------------------:|------------:|
-| Ph.D. | CSD & Biomedical Engineering   | _2017-2022_ |
-| M.A.  | Speech-Language Pathology      | _2012-2015_ |
-| B.A.  | Business Mgmt & Administration | _2004-2008_ |
+<table>
+  <tr>
+    <th style="text-align:left;">Degree</th>
+    <th style="text-align:center;">Field of Study</th>
+    <th style="text-align:right;">Years</th>
+  </tr>
+  <tr>
+    <td>Ph.D.</td>
+    <td style="text-align:center;">CSD & Biomedical Engineering</td>
+    <td style="text-align:right;"><em>2017-2022</em></td>
+  </tr>
+  <tr>
+    <td>M.A.</td>
+    <td style="text-align:center;">Speech-Language Pathology</td>
+    <td style="text-align:right;"><em>2012-2015</em></td>
+  </tr>
+  <tr>
+    <td>B.A.</td>
+    <td style="text-align:center;">Business Mgmt & Administration</td>
+    <td style="text-align:right;"><em>2004-2008</em></td>
+  </tr>
+</table>
 
-- Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_) :
+- Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)
 - M.A., Speech-Language Pathology | State University of New York @ Buffalo (_2012-2015_)
 - B.A., Business Management & Administration | West Virginia University (_2004-2008_)
   
