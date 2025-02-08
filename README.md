@@ -1,15 +1,10 @@
 # Clinician-Scientist
 
-## Education
-- Ph.D. CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
-- M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
-- B.A., Business Management & Administration | West Virginia University (_2004-2008_)
-
 ## Work Experience
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
 - Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
 
-**LLM Designer | Biology Division @ OpenAI (_2024--contract_)**
+**LLM Designer | Biology Division @ OpenAI (_2024-2025_)**
 - Utilized my domain expertise to create high-quality human-derived training datasets (Project: Lion, Elephant) of tasks that were used to evaluate OpenAI LLMs
 
 **NIH F31 Predoctoral Research Fellow @ UW-Madison (_2017-2022_)**
@@ -24,7 +19,7 @@
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
 - Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
 
-## Projects
+## Projects & Publications
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
 [Funding Award](https://reporter.nih.gov/search/NzhijxcIoE-2-uPq0CEwkQ/project-details/10922743)
 
@@ -56,3 +51,9 @@ This review article improved understanding of iSLN innervation and corresponding
 ![iSLN innervation](assets/img/iSLN.jpg)
 
 [Full Publication Record](https://scholar.google.com/citations?user=HBHi-44AAAAJ&hl=en)
+
+
+## Education
+- Ph.D. CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)	
+- M.A., Speech-Language Pathology | State University of New York at Buffalo (_2012-2015_)
+- B.A., Business Management & Administration | West Virginia University (_2004-2008_)
