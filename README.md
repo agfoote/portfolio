@@ -47,7 +47,7 @@
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
 [Funding Award](https://reporter.nih.gov/search/NzhijxcIoE-2-uPq0CEwkQ/project-details/10922743)
 
-My current research is guided by the hypothesis that viral infection of the larynx activates neurosensory cells, remodels both afferent and efferent nerves, and contributes to mucosal inflammation and hypersensitivity. To test this hypothesis, I employ an established mouse model of influenza infection to interrogate laryngeal mucosal remodeling and map afferent/efferent neural circuits/cells in naïve and virus-infected tissues.
+My current research is guided by the hypothesis that viral infection of the larynx activates neurosensory cells, remodels both afferent and efferent nerves, and contributes to mucosal inflammation and hypersensitivity. To test this hypothesis, **I am utilizing a combination of mouse genetics, whole tissue clearing and imaging, and single-cell transcriptomics.** Findings from this study will reveal the neuroimmune mechanism that mediate postviral laryngeal inflammation and sensorimotor neuropathies.
 ![Sensory Nerves & Vasc](assets/img/sensory.jpg)
 
 ### A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies
