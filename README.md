@@ -30,7 +30,7 @@ My current research is guided by the hypothesis that viral infection of the lary
 [Publication](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
 
 Mucosal surfaces lined by epithelial cells are essential elements of the respiratory tract, effective not only as a first-line physical barrier against chronic external threats, but also for host immune defense, and injury repair. Here, using **single cell RNAseq** combined with spatial validation, we present a comprehensive atlas of the mouse upper respiratory epithelium. This work serves as a valuable atlas for hypothesis-driven work into responses to environmental insults, genetic mutations, and infectious diseases.
-![Upper Airway Epithelial Cell Populations](assets/img/umap_atlas.jpg)
+![Upper Airway Epithelial Cell Populations](assets/img/atlas1.jpg)
 
 ### Tissue specific human fibroblast differential expression based on RNAsequencing analysis
 [Publication](https://link.springer.com/article/10.1186/s12864-019-5682-5)
