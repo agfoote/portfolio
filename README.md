@@ -1,9 +1,14 @@
 # Clinician-Scientist
 
 ## Education
-- Ph.D. CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_)
+|:------|:------------------------------:|------------:|
+| Ph.D. | CSD & Biomedical Engineering   | _2017-2022_ |
+| M.A.  | Speech-Language Pathology      | _2012-2015_ |
+| B.A.  | Business Mgmt & Administration | _2004-2008_ |
+
+- Ph.D., CSD & Biomedical Engineering | University of Wisconsin-Madison (_2017-2022_) :
 - M.A., Speech-Language Pathology | State University of New York @ Buffalo (_2012-2015_)
-- B.A., Business Management & Admin | West Virginia University (_2004-2008_)
+- B.A., Business Management & Administration | West Virginia University (_2004-2008_)
   
 ## Work Experience
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
