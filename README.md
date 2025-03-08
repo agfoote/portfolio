@@ -26,22 +26,25 @@
 
 ## Work Experience
 **NIH F32 Postdoctoral Research Fellow @ UC-San Diego (_08/2022-present_)**
-- Leveraging genomic approaches to uncover neuroimmune mechanisms regulating airway repair in post-viral disease setting
+- Leveraged single-cell genomic and bioinformatic approaches to generate high-resolution cellular and molecular profiles of airway tissue using scRNA-seq (10X Genomics), uncovering the mechanistic role of oncogene _c-Myc_ during acute inflammation and chronic remodeling in an influenza mouse model, and identifying novel therapeutic targets for virus-induced pulmonary disease.
 
-**LLM Designer | Biology Division @ OpenAI (_2024-2025_)**
-- Utilized my domain expertise to create high-quality human-derived training datasets (Project: Lion, Elephant) of tasks that were used to evaluate OpenAI LLMs
+**LLM Designer | Biology Division @ OpenAI (_2024-present_)**
+- Utilized my domain expertise to create high-quality human-derived training datasets (Project: Lion, Elephant) of tasks that were used to evaluate OpenAI LLMs for _Deep Research_ application.
+
+**Clinical Adjunct Faculty (_2021-2024_)**
+- Led graduate-level course (CD667-Voice Disorders), delivering virtual instruction, fostering critical discussions on evidence-based clinical practice, mentoring students, and assessing clinical reasoning through assignments, projects, and exams.
 
 **NIH F31 Predoctoral Research Fellow @ UW-Madison (_2017-2022_)**
-- Investigated the role of Piezo1/Piezo2 mechanoreceptors in airway epithelial regeneration and repair
+- Demonstrated therapeutic role of mechanosensitive ion channel proteins, _Piezo1/Piezo2_, in airway epithelial repair and regeneration.
 
 **Research Associate @ UW-Madison (_2015-2017_)**
-- Employed bulk RNA-seq for transcriptomic profiling of human fibroblasts
+- Led multi-disciplinary collaboration across pathology, autopsy, clinical, and data science teams, facilitating the successful procurement and bioinformatic analysis of 33 tissue samples to generate a high-resolution transcriptomic dataset for novel biomarker discovery in fibroblast populations.
 
 **Medical Speech-Language Pathologist @ UW Hospital & Clinics (_2015-2017_)**
-- Specialized in the assessment and treatment of patients with organic, neurological,and functional voice/swallow disorders, and upper airway dysfunction
+- Specialized in the assessment and treatment of voice/swallow disorders, upper airway dysfunction, and neurological, structural, and oncology-related conditions. Collaborated with physicians, medical providers, and clinical staff to ensure comprehensive, patient-centered care across diverse pediatric and geriatric populations.
 
 **Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
-- Conducted clinical study on lifestyle health, self-perceived voice quality, and acoustic parameters in professional voice users
+- Led a clinical study examining lifestyle health profiles, self-perceptions of voice, and acoustical correlates in contemporary professional voice users. Recruited and enrolled 15 study participants, leveraging patient population dynamics under PI supervision. Developed key study components, including literature review, project objectives, study design, protocols, informed consents, IRB/regulatory submissions, and timelines, ensuring compliance and successful execution.
 
 ## Projects & Publications
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
