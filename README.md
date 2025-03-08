@@ -40,10 +40,10 @@
 **Research Associate @ UW-Madison (_2015-2017_)**
 - Led multi-disciplinary collaboration across pathology, autopsy, clinical, and data science teams, facilitating the successful procurement and bioinformatic analysis of 33 tissue samples to generate a high-resolution transcriptomic dataset for novel biomarker discovery in fibroblast populations.
 
-**Medical Speech-Language Pathologist @ UW Hospital & Clinics (_2015-2017_)**
+**Medical Speech Pathologist @ UW Hospital & Clinics (_2015-2017_)**
 - Specialized in the assessment and treatment of voice/swallow disorders, upper airway dysfunction, and neurological, structural, and oncology-related conditions. Collaborated with physicians, medical providers, and clinical staff to ensure comprehensive, patient-centered care across diverse pediatric and geriatric populations.
 
-**Clinical Graduate Research Trainee @ SUNY University at Buffalo (_2013-2015_)**
+**Clinical Graduate Research Trainee @ SUNY Buffalo (_2013-2015_)**
 - Led a clinical study examining lifestyle health profiles, self-perceptions of voice, and acoustical correlates in contemporary professional voice users. Recruited and enrolled 15 study participants, leveraging patient population dynamics under PI supervision. Developed key study components, including literature review, project objectives, study design, protocols, informed consents, IRB/regulatory submissions, and timelines, ensuring compliance and successful execution.
 
 ## Projects & Publications
