@@ -53,8 +53,8 @@
 My current research is guided by the hypothesis that viral infection of the larynx activates neurosensory cells, remodels both afferent and efferent nerves, and contributes to mucosal inflammation and hypersensitivity. To test this hypothesis, **I am utilizing a combination of mouse genetics, whole tissue clearing and imaging, and single-cell transcriptomics.** Findings from this study will reveal the neuroimmune mechanism that mediate postviral laryngeal inflammation and sensorimotor neuropathies.
 ![Sensory Nerves & Vasc](assets/img/sensory.jpg)
 
-### A Single-Cell Atlas of the Upper Respiratory Epithelium Reveals Heterogeneity in Cell Types and Patterning Strategies
-[Publication](https://www.biorxiv.org/content/10.1101/2025.01.16.633456v1)
+### Cellular heterogeneity and patterning strategies as revealed by upper respiratory epithelium single cell atlas
+[Publication](https://www.cell.com/iscience/fulltext/S2589-0042(25)01106-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS258900422501106X%3Fshowall%3Dtrue)
 
 Mucosal surfaces lined by epithelial cells are essential elements of the respiratory tract, effective not only as a first-line physical barrier against chronic external threats, but also for host immune defense, and injury repair. Here, using **single cell RNAseq** combined with spatial validation, we present a comprehensive atlas of the mouse upper respiratory epithelium. This work serves as a valuable atlas for hypothesis-driven work into responses to environmental insults, genetic mutations, and infectious diseases.
 ![Upper Airway Epithelial Cell Populations](assets/img/atlas1.jpg)
