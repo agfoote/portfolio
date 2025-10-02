@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>Fellowship</td>
-    <td style="text-align:center;">Medical Voice Pathology</td>
+    <td style="text-align:center;">Medical Voice Pathologist</td>
     <td style="text-align:right;"><em>2015-2017</em></td>
   </tr>
   <tr>
