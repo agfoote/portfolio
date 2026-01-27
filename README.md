@@ -55,7 +55,7 @@
 ### A non-canonical role of Myc in programming basal cells as sentinels of upper airway immunity during influenza infection
 [PrePrint](https://www.biorxiv.org/content/10.64898/2025.12.22.696065v1.full)
 
-![MYC](assets/img/MYC.png)
+![MYC](assets/img/MYC.pdf)
 
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
 [Funding Award](https://reporter.nih.gov/search/NzhijxcIoE-2-uPq0CEwkQ/project-details/10922743)
