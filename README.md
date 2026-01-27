@@ -52,6 +52,9 @@
 - Led a clinical study examining lifestyle health profiles, self-perceptions of voice, and acoustical correlates in contemporary professional voice users. Recruited and enrolled 15 study participants, leveraging patient population dynamics under PI supervision. Developed key study components, including literature review, project objectives, study design, protocols, informed consents, IRB/regulatory submissions, and timelines, ensuring compliance and successful execution.
 
 ## Projects & Publications
+### A non-canonical role of Myc in programming basal cells as sentinels of upper airway immunity during influenza infection
+[PrePrint](https://www.biorxiv.org/content/10.64898/2025.12.22.696065v1.full)
+
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
 [Funding Award](https://reporter.nih.gov/search/NzhijxcIoE-2-uPq0CEwkQ/project-details/10922743)
 
