@@ -56,9 +56,9 @@
 [PrePrint](https://www.biorxiv.org/content/10.64898/2025.12.22.696065v1.full)
 
 HIGHLIGHTS:
-•	Influenza infection induces Myc upregulation specifically in upper airway sentinel basal progenitors 
-•	Myc drives basal cell secretion of CXCL10 to recruit cytotoxic CD8⁺ NKT effectors
-•	MYC-dependent CXCL10–CXCR3 axis establishes persistent upper airway antiviral immunity
+- Influenza infection induces Myc upregulation specifically in upper airway sentinel basal progenitors 
+- Myc drives basal cell secretion of CXCL10 to recruit cytotoxic CD8⁺ NKT effectors
+- MYC-dependent CXCL10–CXCR3 axis establishes persistent upper airway antiviral immunity
 ![MYC](assets/img/MYC.jpg)
 
 ### Neuroimmune interactions for laryngeal sensorimotor neuropathy in postviral influenza infection
